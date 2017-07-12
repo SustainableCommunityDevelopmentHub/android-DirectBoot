@@ -1,3 +1,10 @@
+SCD Hub lesson scheduler
+========================
+
+with one click, add a subject to be sent useful learning information about.
+one click
+
+
 
 Android DirectBoot Sample
 ===================================
